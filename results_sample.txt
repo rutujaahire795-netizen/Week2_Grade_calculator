@@ -1,0 +1,15 @@
+STUDENT GRADE RESULTS
+=====================
+Generated on: 2024-01-15
+
+rutuja: 91.7% - A
+sakshi: 78.3% - B
+harshda: 67.7% - C
+rashmita: 48.3% - F
+
+CLASS STATISTICS
+================
+Total Students: 4
+Class Average: 71.5%
+Highest: 91.7% (rutuja)
+Lowest: 48.3% (rashmita)

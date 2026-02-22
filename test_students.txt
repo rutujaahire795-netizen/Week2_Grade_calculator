@@ -1,0 +1,27 @@
+Sample Test Data for Grade Calculator
+======================================
+Test these inputs when running the program:
+
+Student 1: rutuja
+Math: 95
+Science: 88
+English: 92
+Expected: A (91.7%)
+
+Student 2: sakshi
+Math: 78
+Science: 82
+English: 75
+Expected: B (78.3%)
+
+Student 3: harshda
+Math: 65
+Science: 70
+English: 68
+Expected: C (67.7%)
+
+Student 4: rashmita
+Math: 45
+Science: 52
+English: 48
+Expected: F (48.3%)
